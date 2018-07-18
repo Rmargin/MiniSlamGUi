@@ -1,0 +1,10 @@
+[Desktop Entry]
+Name=slam
+Comment=eclipse Client
+Exec=bash /home/wangrz/workspace/workcode/Carto2018-04-18/slam.sh
+Icon=/home/wangrz/workspace/workcode/Carto2018-04-18/image.png
+Terminal=true
+Type=Application
+Categories=Application;
+Encoding=UTF-8
+StartupNotify=true
